@@ -4,4 +4,4 @@ generate_babyai_instructions.py is the script we used to create the 17 BabyAI ta
 
 explanation.py is the script we used to return the most semantically similar counterfactual explanation to the user sentence, according either to our proposed method or the ablations discussed in the paper.
 
-correctness_evaluation.ipynb and usefulness_evaluation.py contains our code for evaluation based on each respective metric.
+correctness_evaluation.ipynb and usefulness_evaluation.py contain our code for evaluation based on each respective metric.
