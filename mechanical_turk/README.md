@@ -1,0 +1,1 @@
+This folder contains the natural language instructions that we collected via Mechanical Turk for each of our 17 BabyAI tasks, according to our proposed method and the other approaches discussed in our paper.
