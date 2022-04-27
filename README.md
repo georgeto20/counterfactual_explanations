@@ -2,7 +2,7 @@ Repo for the ACL 2022 short paper “Counterfactual Explanations for Natural Lan
 
 Our contribution is a novel algorithm for computing counterfactual explanations for semantic parsers. We assume the following process:
 
-1. Assume the user provides a command, but the NL interface fails to generate the desired result
+1. User provides a command, but the NL interface fails to generate the desired result
 2. User now provides desired result (in the form of a denotation/trajectory to goal) in addition to command
 3. Our algorithm computes an alternative utterance (counterfactual explanation) that:
 
