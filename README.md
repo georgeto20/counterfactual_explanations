@@ -1,5 +1,9 @@
 Repo for the ACL 2022 short paper “Counterfactual Explanations for Natural Language Interfaces” by George Tolkachev, Stephen Mell, Steve Zdancewic, and Osbert Bastani.
 
+Paper link: https://arxiv.org/abs/2204.13192
+
+Video presentation: https://www.youtube.com/watch?v=dwl1pWxo3ho
+
 Our contribution is a novel algorithm for computing counterfactual explanations for semantic parsers. We assume the following process:
 
 1. User provides a command, but the NL interface fails to generate the desired result
